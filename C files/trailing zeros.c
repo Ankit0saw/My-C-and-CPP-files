@@ -1,3 +1,5 @@
+//enter any no then display the no of zeroes in its factorial
+
 #include<stdio.h>
 int main(){
     int n;
@@ -13,5 +15,9 @@ int main(){
     printf("Trailing zeros :%d",num);
 
     //method 2
+
+
+
+    
     
 }

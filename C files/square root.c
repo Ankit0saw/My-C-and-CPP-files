@@ -1,4 +1,6 @@
 //without using math.h header file
+//find square root of any no
+
 #include<stdio.h>
 int main(){
     float n,num,sqrt,temp;

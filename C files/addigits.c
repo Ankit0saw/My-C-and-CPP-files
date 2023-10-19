@@ -1,3 +1,5 @@
+//enter any no then display the sum of all digits
+
 #include<stdio.h>
 
 int sum(int n){

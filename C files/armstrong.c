@@ -1,3 +1,5 @@
+//enter the no and check it is armstrong or not
+
 #include<stdio.h>
 #include<math.h>
 int main(){

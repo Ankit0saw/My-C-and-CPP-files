@@ -1,3 +1,5 @@
+//enter the no and display its square
+
 #include<stdio.h>
 int main(){
     int n;

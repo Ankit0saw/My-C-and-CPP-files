@@ -1,17 +1,19 @@
+// take input total no and Parts no then calculate percentage
+//  use percentage = (parts/whole)*100
 
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
-    float a,b;
+    float t,p;
     float per;
-    printf("enter the no for we want percentage\n");
-    scanf("%f",&a);
+    
     printf("enter the total no\n");
-    scanf("%f",&b);
+    scanf("%f",&t);
+    
+    printf("enter the no for we want percentage\n");
+    scanf("%f",&p);
 
-    a=a*100;
-    per=a/b;
-    printf("result       :%f\n",per);
-    getch();
+    p=p*100;
+    per=p/t;
+    printf("result       : %.2f %%",per);
 }

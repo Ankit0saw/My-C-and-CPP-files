@@ -1,3 +1,5 @@
+//enter any no and check it is leap year or not
+
 #include<stdio.h>
 
 char checklp(int year){

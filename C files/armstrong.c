@@ -1,4 +1,4 @@
-//enter the no and check it is armstrong or not
+// enter the no and check it is armstrong or not
 // let N=153, hence total digits is 3
 // therefore, 1^3 + 5^3 + 3^3 = 153 
 

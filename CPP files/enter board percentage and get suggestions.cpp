@@ -1,3 +1,6 @@
+//In this program, user needds to enter his board percentage 
+//then the program will tell him which subject he should take according to his marks.
+
 #include<iostream>
 using namespace std;
 class abc1

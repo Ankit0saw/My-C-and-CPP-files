@@ -1,3 +1,6 @@
+// take integer input from user and tell whether it is palindrome or not
+// let n=121 it is palindrome 
+
 #include<stdio.h>
 int main(){
     int num,n,rem=0,res=0;

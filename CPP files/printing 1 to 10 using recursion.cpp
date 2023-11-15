@@ -1,5 +1,6 @@
+//This program will print the nos. from 1 to 10
+
 #include<iostream>
-#include<conio.h>
 using namespace std;
 class abc1
 {
@@ -21,5 +22,4 @@ int main()
 {
     abc1 ob;
     ob.display();
-    getch();
 }

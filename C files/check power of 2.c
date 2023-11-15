@@ -1,4 +1,7 @@
 // enter any no to check whether it is represented in power of 2 
+// eg: N=25 then output= represented
+// eg: N=64 then output= represented
+
 #include<stdio.h>
 int main(){
 

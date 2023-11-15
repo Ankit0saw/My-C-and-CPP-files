@@ -1,4 +1,5 @@
-//enter any no then display the sum of all digits
+// enter any no then display the sum of all digits
+// eg: N= 53 then o/p : 8 
 
 #include<stdio.h>
 

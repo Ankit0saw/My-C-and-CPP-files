@@ -1,3 +1,6 @@
+// Enter any no and get the Table of that no 
+// eg: for n=5, o/p: 5*1=5 and so on
+
 #include<iostream>
 using namespace std;
 class abc1

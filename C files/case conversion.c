@@ -1,5 +1,6 @@
-//enter character and the perform case conversion
-//i.e. lower case to upper case and vice versa
+// enter character and the perform case conversion
+// i.e. lower case to upper case and vice versa
+// eg: I/p = r then O/p = R and vice-versa
 
 #include<stdio.h>
 int main(){

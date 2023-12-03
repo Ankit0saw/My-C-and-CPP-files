@@ -1,5 +1,5 @@
 // this program will give the output as extreme points of array
-// eg: [2,8,5,7] => [2,7,5,8] i.e. first and last then second and second last ans so on
+// eg: [2,8,5,7] => [2,7,8,5] i.e. first and last then second and second last ans so on
 
 #include <iostream>
 using namespace std;

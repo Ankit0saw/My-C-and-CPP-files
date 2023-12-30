@@ -1,5 +1,7 @@
 // this code will move all the -ve nos to left side of array and hence +ve nos to the right side of array
 // no need to maintain any swapping order like increasing or decreasing
+// eg: i/p -> 2,-1,7,-3,4,-1,-5,3,4
+// then o/p -> -5,-1,-1,-3,4,7,3,4,2 
 
 #include <iostream>
 #include <vector>

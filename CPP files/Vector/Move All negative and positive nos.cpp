@@ -1,4 +1,5 @@
 // this code will move all the -ve nos to left side of array and hence +ve nos to the right side of array
+// no need to maintain any swapping order like increasing or decreasing
 
 #include <iostream>
 #include <vector>

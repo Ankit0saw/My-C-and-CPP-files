@@ -1,7 +1,7 @@
 // all the basic operations to be performed in this code using switch case
 // like insertion, deletion and display etc.
 
-#include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
 
 // Node structure

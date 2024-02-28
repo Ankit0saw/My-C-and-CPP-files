@@ -2,7 +2,6 @@
 // like insertion, deletion and display etc.
 
 #include <iostream>
-
 using namespace std;
 
 // Node structure for doubly linked list

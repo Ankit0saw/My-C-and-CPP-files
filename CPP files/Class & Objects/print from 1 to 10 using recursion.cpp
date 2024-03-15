@@ -3,24 +3,19 @@
 
 #include<iostream>
 using namespace std;
-class abc1
-{
+
+class abc {
 public:
-    void display()
-    {
-        disp(1);
+    void print(int i) {
+        if (i <= 10) {
+            cout << i << endl;
+            print(i + 1);
+        }
     }
-    void disp(int i)
-  {
-    if(i<=10)
-    {
-        cout<<i<<endl;
-        disp(i+1);
-    }
-  }
 };
-int main()
-{
-    abc1 ob;
-    ob.display();
+
+int main() {
+    abc obj;
+    obj.print(1);
+    return 0;
 }

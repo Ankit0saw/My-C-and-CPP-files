@@ -3,11 +3,12 @@
 
 #include<iostream>
 using namespace std;
-class abc1
+
+class abc
 {
     int i,n;
 public:
-    void disp()
+    void print()
     {
         cout<<"enter any no\n";
         cin>>n;
@@ -19,6 +20,7 @@ public:
 };
 int main()
 {
-    abc1 ob;
-    ob.disp();
+    abc ob;
+    ob.print();
+    return 0;
 }

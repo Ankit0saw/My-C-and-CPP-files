@@ -1,5 +1,6 @@
-// In this code: take n student name, rollno, marks then find out and display the details of highest scoring student
-//  using class and object concept
+// In this code: insert n student name, rollno, marks then find out and display the details of highest scoring student
+//  using class and object concept.
+//  use the concept of array of object (An array of objects in C++ is just like an array, but its elements are objects of a class)
 
 
 #include<iostream>

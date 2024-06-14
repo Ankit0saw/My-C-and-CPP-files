@@ -2,7 +2,6 @@
 // output will be the reverse of the inserted string
 
 
-
 #include<iostream>
 using namespace std;
 class string_reverse{
